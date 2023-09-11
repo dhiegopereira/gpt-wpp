@@ -1,0 +1,14 @@
+2023/03/28-20:28:59.188 534c Reusing MANIFEST D:\dhieg\Documents\Jobs\Cubos\desafio-frontend-m02-ddst11\diegonGPT\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/28-20:28:59.188 534c Recovering log #27
+2023/03/28-20:28:59.221 534c Reusing old log D:\dhieg\Documents\Jobs\Cubos\desafio-frontend-m02-ddst11\diegonGPT\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000027.log 
+2023/03/28-20:30:20.861 80e8 Level-0 table #33: started
+2023/03/28-20:30:20.913 80e8 Level-0 table #33: 1250839 bytes OK
+2023/03/28-20:30:20.938 80e8 Delete type=0 #27
+2023/03/28-20:30:21.619 80e8 Compacting 1@1 + 2@2 files
+2023/03/28-20:30:21.808 80e8 Generated table #34@1: 40697 keys, 2216814 bytes
+2023/03/28-20:30:21.866 80e8 Generated table #35@1: 32932 keys, 724971 bytes
+2023/03/28-20:30:21.866 80e8 Compacted 1@1 + 2@2 files => 2941785 bytes
+2023/03/28-20:30:21.890 80e8 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/03/28-20:30:21.891 80e8 Delete type=2 #29
+2023/03/28-20:30:21.891 80e8 Delete type=2 #30
+2023/03/28-20:30:21.891 80e8 Delete type=2 #33
