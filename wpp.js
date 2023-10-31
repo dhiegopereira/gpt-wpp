@@ -6,37 +6,6 @@ const TOKEN = 'yout token';
 
 const axios = require('axios');
 
-// async function generateResponse(prompt) {
-//   const response = await axios({
-//     method: 'post',
-//     url: 'https://api.openai.com/v1/chat/completions',
-//     headers: {
-//       'Content-Type': 'application/json',
-//       'Authorization': `Bearer ${TOKEN}`
-//     },
-//     data: {
-//      model: 'gpt-3.5-turbo',
-//      messages: [{"role": "user", "content": prompt}],
-//      temperature: 0.7
-//     }
-//   });
-
-//   return response.data.choices[0];
-// }
-
-// import requests
-
-// url = "https://api.theb.ai/chatbot"
-// headers = {"Content-Type": "application/json"}
-// data = {
-//     "key": "<sua chave de API aqui>",
-//     "message": "Olá, como você está?"
-// }
-// response = requests.post(url, headers=headers, json=data)
-
-// print(response.json())
-
-
 async function generateResponse(prompt) {
   const response = await axios({
     method: 'post',
