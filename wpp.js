@@ -2,7 +2,7 @@
 // import { create, Whatsapp } from 'venom-bot';
 const venom = require('venom-bot');
 
-const TOKEN = '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';
+const TOKEN = 'yout token';
 
 const axios = require('axios');
 
